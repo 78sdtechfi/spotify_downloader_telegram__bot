@@ -19,7 +19,7 @@ AUTHOR WILL NOT BE HELD RESPONSIBLE FOR ANY MISUSE OF THE INFORMATION PROVIDED
 1. Clone the repository:
 
 ```
-git clone https://github.com/78sdtechfi/spotify_downloader_telegram__bot.git
+git clone https://github.com/78sdtechfi/spotify_downloader_telegram__bot.git sdt_bota
 cd sdt_bota
 ```
 
